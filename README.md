@@ -1,14 +1,13 @@
 # XooomApp
 
 
-#Phase 1
-
+Phase 1
 Revamp List
 
--Centralize Base Code(Worker side & Admin Side)
+- [ ] Centralize Base Code(Worker side & Admin Side)
 
--DB Design
+- [ ] DB Design
 
--UI/UX
+- [ ] UI/UX
 
--Printing Reports(Excel)
+- [ ] Printing Reports(Excel)
