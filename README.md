@@ -15,6 +15,6 @@ Revamp List
 
 Phase 2
 Add New Modules
--[ ] Change Domain
--[ ] Inventory(Reports) STOCKS SA PRODUCT
--[ ] Workers(Login & Log-out) Employee Time in(OT,OVERTIME,LATE) og pwedi maka change time out sa admin.(Reports)
+- [ ] Change Domain
+- [ ] Inventory(Reports) STOCKS SA PRODUCT
+- [ ] Workers(Login & Log-out) Employee Time in(OT,OVERTIME,LATE) og pwedi maka change time out sa admin.(Reports)
